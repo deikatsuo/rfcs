@@ -21,7 +21,7 @@ As detailed below, one major concern with rust-analyzer as it stands today is th
 
 Currently, Rust users who wish to use an editor that supports Microsoft's Language Server Protocol (LSP) have two choices:
 
-* Use the RLS, the official IDE project of the Rust langauge.
+* Use the RLS, the official IDE project of the Rust language.
 * Use rust-analyzer, a more experimental, unofficial project that has recently been gaining ground.
 
 Ideally, we would like to concentrate our efforts behind a single implementation.
